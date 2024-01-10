@@ -1,0 +1,9 @@
+.board-row button {
+    width: 40px;
+    height: 40px;
+}
+
+.board-row {
+    display: flex;
+    border: none;
+}   
